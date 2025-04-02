@@ -1,33 +1,38 @@
 {
   "characters": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Mr. Cute",
-      "image": "https://thumbs.gfycat.com/EquatorialIckyCat-max-1mb.gif",
-      "votes": 0
+      "image": "https://media.giphy.com/media/3o6ZsYm5P38NvUWrDi/giphy.gif",
+      "votes": 12
     },
     {
-      "id": 2,
+      "id": "2",
       "name": "Mx. Monkey",
-      "image": "https://thumbs.gfycat.com/FatalInnocentAmericanshorthair-max-1mb.gif",
+      "image": "https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif",
       "votes": 0
     },
     {
-      "id": 3,
+      "id": "3",
       "name": "Ms. Zebra",
       "image": "https://media2.giphy.com/media/20G9uNqE3K4dRjCppA/source.gif",
-      "votes": 0
+      "votes": 10
     },
     {
-      "id": 4,
+      "id": "4",
       "name": "Dr. Lion",
       "image": "http://bestanimations.com/Animals/Mammals/Cats/Lions/animated-lion-gif-11.gif",
+      "votes": 10
+    },
+    {
+      "id": "5",
+      "name": "Mme. Panda",
+      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
       "votes": 0
     },
     {
-      "id": 5,
-      "name": "Mme. Panda",
-      "image": "https://media.giphy.com/media/ALalVMOVR8Qw/giphy.gif",
+      "id": "16cc",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%2Fimages%3Fk%3Drhino%2Bcartoon&psig=AOvVaw2X1hhaoKLBAD7EBCAmzOZe&ust=1743166496955000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjZ-rCnqowDFQAAAAAdAAAAABAE",
       "votes": 0
     }
   ]
